@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tliviipatavinih01crevgoog/tliviipatavinih01crevgoog_0008.png"; bbox 0 0 3086 4952; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 815 2257 998 2301">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 815 2257 998 2301">
+     <span class='ocr_line' id='line_1_1' title="bbox 815 2257 998 2301; baseline -0.011 -3"><span class='ocrx_word' id='word_1_1' title='bbox 815 2257 998 2301; x_wconf 73' lang='lat' dir='ltr'>LONMM:</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 598 2368 1212 2428">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 598 2368 1212 2428">
+     <span class='ocr_line' id='line_1_2' title="bbox 598 2368 1212 2428; baseline -0.002 -14"><span class='ocrx_word' id='word_1_2' title='bbox 598 2379 809 2414; x_wconf 71' lang='lat' dir='ltr'><strong>zxcunmur</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 826 2379 966 2414; x_wconf 76' lang='grc' dir='ltr'><strong>αιιηιιτ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 984 2368 1005 2413; x_wconf 71' lang='grc' dir='ltr'><strong>δι</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1024 2379 1212 2428; x_wconf 67' lang='lat' dir='ltr'>muneror«,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 668 2482 1135 2534">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 668 2482 1135 2534">
+     <span class='ocr_line' id='line_1_3' title="bbox 668 2482 1135 2534; baseline 0.002 -3"><span class='ocrx_word' id='word_1_6' title='bbox 668 2496 697 2531; x_wconf 74' lang='lat' dir='ltr'><em>m</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 709 2497 768 2532; x_wconf 80' lang='lat' dir='ltr'><strong>Vlco</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 780 2497 858 2532; x_wconf 72' lang='lat' dir='ltr'><strong>mero</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 870 2497 908 2532; x_wconf 74' lang='lat'><strong>⁸1¹.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 919 2482 1011 2531; x_wconf 73' lang='lat' dir='ltr'>Jonu’fl</span> <span class='ocrx_word' id='word_1_11' title='bbox 1023 2495 1135 2534; x_wconf 70' lang='lat' dir='ltr'><strong>soum.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1548 4952">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1548 4952">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1548 4952; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1548 4952; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
